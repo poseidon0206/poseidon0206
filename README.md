@@ -10,10 +10,10 @@ All my favourite languages start with ```P```s.
 - ```php``` (yes, those were very dark days).
 - ```python```.
 
-### More ```P```s
 I was lucky to start by the end of ```2.7```, so I actually started with ```3.6```.
 For the experienced python users I'm a naive summer child.
 
+### More ```P```s
 My favourite animal is the ```penguin```. Another one that starts with a ```P```.
 I was a former Linux user turned Apple user.
 
