@@ -1,7 +1,7 @@
 ## Noriyama Kannosuke
 Is a name I gave myself.
 
-- **Noriyama** (典山): lit. _book mountain_, because I grew with house full of books.
+- **Noriyama** (典山): lit. _book mountain_, because I grew up in houses full of books.
 - **Kannosuke** (漢之助): lit. _helper of people_, taken from my given name.
 
 ### ```P```s
